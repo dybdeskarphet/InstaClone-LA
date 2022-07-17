@@ -1,5 +1,5 @@
 # Instagram Clone
-An Instagram clone written in Java. You can sign up, sign in and share posts.o
+An Instagram clone using Firebase. You can sign up, sign in and share posts. (Wow)
 
 # Screenshots
 | add_post                                            | login                                         |
