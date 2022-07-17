@@ -1,3 +1,5 @@
+> I wrote this app for my Udemy course and not for practical purposes.
+
 # Instagram Clone
 An Instagram clone using Firebase. You can sign up, sign in and share posts. (Wow)
 
