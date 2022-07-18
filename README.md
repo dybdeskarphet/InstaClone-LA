@@ -4,9 +4,13 @@
 An Instagram clone using Firebase. You can sign up, sign in and share posts. (Wow)
 
 # Screenshots
-| add_post                                            | login                                         |
-|-----------------------------------------------------|-----------------------------------------------|
-| <img src="screenshots/add_post.jpg" alt="add_post"> | <img src="screenshots/login.jpg" alt="login"> |
+| login                                        |
+|----------------------------------------------|
+|<img src="screenshots/login.jpg" alt="login"> |
+
+| add_post                                            | add_post2                                             |
+|-----------------------------------------------------|-------------------------------------------------------|
+| <img src="screenshots/add_post.jpg" alt="add_post"> | <img src="screenshots/add_post2.jpg" alt="add_post2"> |
 
 | posts1                                          | posts2                                          |
 |-------------------------------------------------|-------------------------------------------------|
